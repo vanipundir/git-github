@@ -1,4 +1,8 @@
 Fifth file
 
 
+<<<<<<< HEAD
 Modified in the master
+=======
+Little changes
+>>>>>>> GithubProject_Branch1
